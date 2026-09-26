@@ -39,3 +39,11 @@ Tüm aylar mevcutsa çalışan ortalamasını hesaplar.
 Bir ay eksik olduğunda ise: **Mayıs 2026 eksik → Ortalama hesaplanmadı.**
 Yüklenen belgeler arasında farklı bir firmaya ait belge bulunursa bu belge tespit edilir ve hesaplamaya dahil edilmez.
 
+## 📸 Uygulama Görüntüleri
+
+### Farklı Firma / VKN Kontrolü  ![VKN Kontrolü](vkn-kontrolu.jpg)
+
+### Aylık Çalışan Sayıları ve Ortalama  ![Aylık Çalışan Sayıları](aylik-calisan-sayilari.jpg)
+
+### Eksik Dönem Kontrolü ![Eksik Dönem Kontrolü](eksik-donem-kontrolu.jpg)
+
