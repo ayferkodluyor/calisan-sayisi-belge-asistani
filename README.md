@@ -47,3 +47,11 @@ Yüklenen belgeler arasında farklı bir firmaya ait belge bulunursa bu belge te
 
 ### Eksik Dönem Kontrolü ![Eksik Dönem Kontrolü](eksik-donem-kontrolu.jpg)
 
+
+## 🎥 Proje Videosu
+
+Uygulamanın nasıl çalıştığını YouTube videosunda adım adım gösterdim. 
+▶️ [YouTube'da İzle](https://www.youtube.com/watch?v=T_-bQDxUJXc)
+
+
+
